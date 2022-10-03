@@ -1,2 +1,3 @@
-# my_travel_plans
-A project accomplished during my learning journey with ALX and udacity
+# Travel Destinations
+
+A simple app to keep track of destinations I'd like to visit.
